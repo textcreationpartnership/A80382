@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Continuation of our forraine occurences: vvith the confirmation of the late cruell and bloody battell fought betwixt Wesell and Collen. And the particulars of the losses on both sides, and what townes the Weymarish and Hessish have since taken. : Also [S]ome letters and passages of note from other parts of Christendome. / Translated and collected out of good originalls.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80382</idno>
+            <idno type="STC">Wing C5959</idno>
+            <idno type="STC">ESTC R171510</idno>
+            <idno type="EEBO-CITATION">45097643</idno>
+            <idno type="OCLC">ocm 45097643</idno>
+            <idno type="VID">171247</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80382)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171247)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2569:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Continuation of our forraine occurences: vvith the confirmation of the late cruell and bloody battell fought betwixt Wesell and Collen. And the particulars of the losses on both sides, and what townes the Weymarish and Hessish have since taken. : Also [S]ome letters and passages of note from other parts of Christendome. / Translated and collected out of good originalls.</title>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nath. Butter, at Austins Gate in Pauls Church yard, at the signe of the Pyde Bull.,</publisher>
+                  <pubPlace>[Lo]ndon :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: tightly bound with some loss of print. Bracketed material lost from t.p.</note>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Thirty Years' War, 1618-1648.</term>
+               <term>Germany --  History --  1618-1648.</term>
+               <term>Europe --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171247:1"/>
+            <p>The continuation of our Forraine occur<g ref="char:EOLhyphen"/>rences: VVith the confirmation of the late cruell and bloody Battell fought betwixt Weſell and Collen.</p>
+            <p>And The particulars of the loſſes on both ſides, and what Townes the Weymariſh and Heſſiſh have ſince taken.</p>
+            <p>Alſo <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome Letters and paſſages of note from other parts of Chriſtendome.</p>
+            <p>
+               <hi>Tranſlated and collected out of good Originalls.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ondon printed for <hi>Nath. Butter,</hi> at <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t. <hi>Auſtins</hi> Gate in <hi>Pauls</hi> Church yard, at the ſigne of the Pyde Bull. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:171247:2"/>
+            <pb n="1" facs="tcp:171247:2"/>
+            <div type="account">
+               <head>
+                  <hi>Vienna Inne</hi> 13.23.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>HE generall Treaty of peace betwixt the Emperour and the King of France, and the Crowne of Sweden is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ppoin<g ref="char:EOLhyphen"/>ted to beginne the 25. of March with the French, they will treat at Munſter, and with the Swedes at Oſnaburg, and during the treaty the garriſons ſhall be drawne out of both places, and the ſaid places ſhall in the meane time remaine neutrall, yet if ſo be that contrary to all expectation the treaty ſhould be diſſolved without an happy effect, the ſaid garriſons ſhall enter thoſe Townes againe as they marched out, and the firſt day of May an Imperiall Diet ſhall be held at Frankford on the Maine, or Speier, what good ſucceſſe it will have time will ſhew.</p>
+            </div>
+            <div type="account">
+               <head>
+                  <hi>Baſil Ian.</hi> 12.22.</head>
+               <p>The French and high Dutch troopes under the com<g ref="char:EOLhyphen"/>mand of Generall Major <hi>Erlach,</hi> which relieved the Fort of Hohenwiel, and provided the ſame againe with all ne<g ref="char:EOLhyphen"/>ceſſaries, have fired the Imperiall Campe, demoliſhed the Sconces, &amp; thereupon are gone again to their old quarters, <hi>Erlach</hi> to Briſlack, and <hi>Oiſſonville</hi> and Lieutenant Colonell
+<pb n="2" facs="tcp:171247:3"/>
+                  <hi>Roſa</hi> (unto who is given Colonell <hi>Mullers</hi> Regiment of horſe) are gone for Paris: in this ſiege hath beene in the Fort of Hohenwiel 400. ſouldiers; 300. women and children, and a good ſtore of proviſion, and moſt that they wanted was water.</p>
+            </div>
+            <div type="account">
+               <head>
+                  <hi>Hamborough Ian.</hi> 15.25.</head>
+               <p>The King of Denmarke is at Chriſtian Pries, and is wil<g ref="char:EOLhyphen"/>ling now to enter into a friendly treaty with this City: They write for certaine that the Count of Aversberg (as Imperiall Embaſſadour) is appointed for the treaty of peace betwixt the Emperour and the King of France and the Crowne of Sweden, and is arrived at Wolffenbuttle to goe to Munſter. Some few dayes agoe divers Swediſh re<g ref="char:EOLhyphen"/>giments marched towards the Biſhopricke of Magdeburg, where they tooke away many horſes and cattell at H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<g ref="char:EOLhyphen"/>ſtat alſo: they have ruinated two Luneburgiſh companies, inſomuch that the Swedes and Luneburgiſh are now ene<g ref="char:EOLhyphen"/>mies one againſt another: The Imperiall Army is broke up, and is marching towards the Biſhopricke of Halberſtat directly againſt the Swedes; the ſicke ſouldiers and diſ<g ref="char:EOLhyphen"/>mounted horſemen are ſent to their appointed quarters: The ſtrong Caſtle of Mansfeld remaines beſieged by the Imperialiſts, which they have begunne now to undermine; ſome are of opinion that it will not bee able to hold out long.</p>
+            </div>
+            <div type="account">
+               <head>
+                  <hi>Vienna. Ian.</hi> 19, 29.</head>
+               <p>Concerning the Palatine treaty there is now good hope; it is reported that the Duke of Bavaria will reſtore both
+<pb n="3" facs="tcp:171247:3"/>the upper Palatinate, and that part which he hath in the lower Palatinate, if ſo be that the King of Spaine will ac<g ref="char:EOLhyphen"/>commodate himſelfe in like manner: Incontinueth that the generall treaty of peace ſhall be reaſſumed a new at Mun<g ref="char:EOLhyphen"/>ſter and Oſnaburg the 20. or 25. day of March, to which end the letters of ſafe conduct are delivered out already for France and Sweden.</p>
+            </div>
+            <div type="account">
+               <head>
+                  <hi>Leipzigk Ian.</hi> 13.23.</head>
+               <p>At this inſtant we receive letters from Magdeburg cer<g ref="char:EOLhyphen"/>tifying that the whole Imperiall Army hath kept generall randevous at Aſherſleben, being reſolved to goe in three ſeverall places, as namely at Stasfurſt, Egglen and Gen<g ref="char:EOLhyphen"/>nerſleben over the River of Pude, and to march againſt the Swedes, to which end they labour here to repaire a ſhipbridge for them; the Swedrs are reſolved to expect the comming of the Imperiall Army: From Sileſi they write, that <hi>Carlach</hi> hath yeelded upon diſcretion, and <hi>Stol<g ref="char:EOLhyphen"/>hans</hi> hath likewiſe forſaken at Beuthen one of the Sconces, the reſt the Imperialiſts hope likewiſe to muſter ſhortly; it is reported that the Imperialiſts have taken priſoner the Swediſh Colonell <hi>Shulman,</hi> together with 500. horſemen of <hi>Stolhans</hi> his army.</p>
+            </div>
+            <div type="account">
+               <head>
+                  <hi>Collen Ian.</hi> 14.24.</head>
+               <p>The great flving of he inhabitants both of Cities, Villa<g ref="char:EOLhyphen"/>ges and Cloyſters by water and land towards this City continueth ſtill becauſe of the great progreſſe of the Weymariſh and Heſſiſh forces which take one place after another: Fieldmarſhall <hi>Hatzfeld</hi> with his troopes is reti<g ref="char:EOLhyphen"/>ring
+<pb n="4" facs="tcp:171247:4"/>towards the Yffell and Moſell to joine with the Lor<g ref="char:EOLhyphen"/>raine troopes which are arrived about Wormbs: The Ci<g ref="char:EOLhyphen"/>ty of Bonne is to take in a 1000. foote, and 300. horſe of <hi>Hatzfelds</hi> forces: The Magiſtrates of this City cauſe the Drummes to bee beaten day and night to take up ſome 1000. voluntiers for the ſecuring of this City; within the ſpace of three dayes the price of the corne roſe from 8. to 10. florens: this City is ſo full of the Country people that are fled hither, as it hath beene by mens memory, and theſe troubles ſtop now all trading: the City of Doringen the Imperiall ſouldiers themſelves have fired: The princi<g ref="char:EOLhyphen"/>pality of Bergk and the Duke of Newburg have already agreed with the Weymariſh and Heſſiſh forces to pay con<g ref="char:EOLhyphen"/>tribution unto them: The overthrow of <hi>Lamboy</hi> is farre greater then at firſt was mennoned, ſome that lay amongſt the dead, and afterward through a ſecret way came hither to this City, looke moſt miſerable and pittifull, which ſay that their army is totally ruinated, and that not above three or foure hundred men could eſcape. Generall <hi>Lam<g ref="char:EOLhyphen"/>boy</hi> with eighteene other Colonells was brought priſoner into the Cloyſter of St. <hi>Tunes,</hi> and from thence was carr<g ref="char:EOLhyphen"/>ed towards the Rhyne: The Nobility and Gentry, upon which heretofore we did much rely, runne now all away, and will not fight, leaving behind them all their lands and goods.</p>
+            </div>
+            <div type="account">
+               <head>Duſſeldorp the <hi>14.24.</hi> of Ian.</head>
+               <p>What great overthrow Generall <hi>Lamboy</hi> had neare Huckelſheim the 7.17. of this moneth, hereof we ſee daily ſufficient witneſſe. In this overthrow about 5000. of his men were taken priſoners, and he loſt all his baggage, ar<g ref="char:EOLhyphen"/>tillery,
+<pb n="5" facs="tcp:171247:4"/>and the moſt part of his Standards and Enſignes: The City of Ordingen was forced to pay 3000. Rixdallers for a ranſome. The flying of the poore inhabitants both women and children, and a number of the Clergy, which for divers yeares together did not once come out of the Cloyſter, we have continually ſeene from the 8.18. of this moneth till yeſterday. Our Prince the Duke of Newburg hath obtained the Neutrality for his ſubjects, but the No<g ref="char:EOLhyphen"/>bility and Gentry are excluded.</p>
+            </div>
+            <div type="account">
+               <head>Collen the <hi>15.25.</hi> of Ian.</head>
+               <p>Fieldmarſhall <hi>Hatzfeld</hi> hath propounded three points to our Magiſtrates. 1 To grant him a free ferry before this City over the River of Rhyne. 2 That in caſe of ne<g ref="char:EOLhyphen"/>ceſſity he may retire under the protection of this City. 3 That they ſhall take into this City two or three thouſand men of his forces for a guarriſon: the two firſt points they have granted him, but the third they have denyed. The townſmen at Bonne flee for the moſt part hither to this City.</p>
+            </div>
+            <div type="account">
+               <head>Emmerick the <hi>15.25.</hi> of Ian.</head>
+               <p>The 9.19. of this moneth two Weymariſh Colonells went from hence towards the Hage to the French Ambaſ<g ref="char:EOLhyphen"/>ſador, to fetch order whither the impriſoned Comman<g ref="char:EOLhyphen"/>ders ſhall be carried. Generall <hi>Lamboy</hi> was wounded in his thigh.</p>
+               <p>The 10.20. of this inſtant, the City of Kempen was ſurrendred unto the Weymariſh by compoſition, wherein they found above 3000. ſackes with corne, and other
+<pb n="6" facs="tcp:171247:5"/>rich bootie. Colonell Newenheim Governour of Kem<g ref="char:EOLhyphen"/>pen, who heretofore ranſacked the Palatinate, and made great ſpoile in it, ſeeing that the battell was loſt, fled with his beſt goods from thence, but hee was overtaken by the Weymariſh, and himſelfe and his wife with much adoe ſaved themſelves into Gelder.</p>
+            </div>
+            <div type="account">
+               <head>Duyren the <hi>15.25.</hi> of Ian.</head>
+               <p>Divers of <hi>Lamboyes</hi> ſouldiers that fled out of the battell, and came hither, unanimouſly relate, that in many yeares ſo many men were not ſlaine and taken priſoners, as in this battell, they could not ſave one Wagon. On Sunday laſt Fieldmarſhall <hi>Hatzfeld</hi> lay round about this City, and re<g ref="char:EOLhyphen"/>tired in a great confuſion.</p>
+               <p>Three dayes agoe the diſperſed Lamboyiſh troupes re<g ref="char:EOLhyphen"/>collected themſelves before this City, and did great miſ<g ref="char:EOLhyphen"/>chiefe in the Suburbes, which have beene 600. horſe, and 400. foot, and 1000. horſemen of <hi>Hatzfelds</hi> forces were with them to conduct them to the Army: in Dormagen the Weymariſh have ſurpriſed and totally routed and de<g ref="char:EOLhyphen"/>feated 800. dragooners, and afterwards fired the Towne: The other day 3000. Weymariſh horſemen came before this City, and having underſtood which way the remain<g ref="char:EOLhyphen"/>der of <hi>Lamboy's</hi> forces had retired, purſued cloſe after them as farre as Seligh, where at laſt they lighted upon them, totally touted and defeated them, and obtained twelve ſtandards more: Colonell <hi>Roſa</hi> ſent a trumpeter hither into this City demanding quarter for his men, whom the Magiſtrates anſwered, that <hi>Lamboy</hi> and <hi>Hatzfeld</hi> had demanded the like, but being they were neutrall, they hoped that he would likewiſe ſpare them, whereupon <hi>Roſa</hi>
+                  <pb n="7" facs="tcp:171247:5"/>replyed, That hee would ſhortly breake the Neutrality with his Canons. The other day the Weymarians paſſed here by with a great booty.</p>
+            </div>
+            <div type="account">
+               <head>A perfect Liſt of the Imperiall Commanders and Officers that were ſlaine and taken priſoners in the laſt over<g ref="char:EOLhyphen"/>threw of <hi>Lamboy,</hi> as the ſame was delivered up to Count de <hi>Guebrian</hi> the <hi>7.17.</hi> of Ian.</head>
+               <p>The priſoners are Generall <hi>Lamboy,</hi> Generall <hi>Mercy,</hi> 16. Colonels, 9. Lieu. Col. amongſt which is <hi>Paradyſer</hi> and <hi>Beuting,</hi> 8. Sergeant Majors, 28. Captaines of horſe, 38. Captaines of foot, a Captaine Lieutenants, 1 Gener<g ref="char:EOLhyphen"/>all Adjutant, 4. Regiment Quartermaſters, 46. Lieute<g ref="char:EOLhyphen"/>nants, 31. Standardbearers, 35. Ancients, 46. Standards, 97. Enſignes, 17. Trumpetters, 3. Maſſe Prieſts, Upon the place of battell were ſlaine 423. high and under Offi<g ref="char:EOLhyphen"/>cers, as namely, Sergeants, Adjutants, Quartermaſters, Corporals, and ſuch like, and about 3000. Souldiers; and above 4000. are taken priſoners of the common Souldi<g ref="char:EOLhyphen"/>ers, which have taken pay under the Weymariſh. On the Heſſiſh and Weymariſh ſide were ſlaine Colonell <hi>Fleſhei<g ref="char:EOLhyphen"/>mer,</hi> Major <hi>Buſhell,</hi> Major <hi>Conrad Kauffman,</hi> 3. Captaines of foot, 2. Captaines of horſe, 4. Lieutenants, 3. Ancients and Standardbearers, and about 50. common S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uldiers. Thoſe that are wounded, are Lieutenant Colonell <hi>Lato<g ref="char:EOLhyphen"/>mus,</hi> Lieutenant Colonell <hi>Beuthen,</hi> the Lieutenant Colo<g ref="char:EOLhyphen"/>nell of <hi>Conte de Guebrian,</hi> Rittermaſter <hi>Coſtputh,</hi> Captaine <hi>Freaſe,</hi> 2. French Captaines, 1. Regiment Quartermaſter, and about 260. common Souldiers.</p>
+            </div>
+            <div type="account">
+               <pb n="8" facs="tcp:171247:6"/>
+               <head>Collen the <hi>17.27.</hi> of Ian.</head>
+               <p>The Hatzfeldiſh Infantery lyes enquartered at Bonne, Andernach and Lins, on this ſide of the River of Rhyne, and the Chavallery is gone to Andernach to the other ſide of the River. The diſperſed Lamboyiſh troopes which recollected themſelves here and there, are totally routed and defeated againe by the Weymariſh. All the Wey<g ref="char:EOLhyphen"/>mariſh forces lye now about Nuys, which they batter fiercely. Here in this City the Drummes are continually beaten to take up 4 or 5000. men. Every night watch here in the City 6. Companies of Citizens.</p>
+               <p>On Friday laſt the Elector of Collen and Fieldmarſhall <hi>Hatzfeld</hi> came hither into this City to put all things in order.</p>
+            </div>
+            <div type="account">
+               <head>Collen the <hi>18.28.</hi> of Ian.</head>
+               <p>When the Weymariſh and Heſſiſh forces lay with the maine Army about Neus, and cauſed the ſaid City to bee ſummoned, but the beſieged reſolved to defend them<g ref="char:EOLhyphen"/>ſelves to the laſt man: wherefore in the meane time Colo<g ref="char:EOLhyphen"/>nell <hi>Roſa</hi> with 3000. horſemen, purſued after the remain<g ref="char:EOLhyphen"/>der of <hi>Lamboyes</hi> Army, which under the command of Co<g ref="char:EOLhyphen"/>lonell <hi>Zell,</hi> and Sergeant Major <hi>de Grange</hi> 2000. horſemen ſtrong were marching to joine with <hi>Hatzfeld,</hi> upon which he lighted about Zulch, encountred with them, and purſu<g ref="char:EOLhyphen"/>ed after the fugitives as far as Munſter Eyffell. It is ſaid that he hath obtained 12 Standards more, inſomuch that of <hi>Lamboyes</hi> whole Army very few are remaining. It is not yet knowne whether the aboveſaid Colonell <hi>Zell</hi> and
+<pb n="9" facs="tcp:171247:6"/>
+                  <hi>Grange</hi> are taken priſoners, or eſcaped. The foreſaid City of Zulch hath paid for a ranſome 5000. Rixdallers: hereupon they ſummoned the City of Duyren, but it is doubted whe<g ref="char:EOLhyphen"/>ther they will accommodate themſelves before the Canons are brought before it. Generall <hi>Tupadell</hi> lyes before Neus, which City he batters fiercely, that we can heare under the gates of this City: meane while the parties over-runne the whole Country, and take away all what they finde. The o<g ref="char:EOLhyphen"/>ther day they met with ſome Carts and Wagons comming from Cleve hitherwards, which they tooke away. Field<g ref="char:EOLhyphen"/>marſhall <hi>Hatzfeld</hi> is yet here, and his Infantery at Ander<g ref="char:EOLhyphen"/>nach, Bonne, Breul, and other places, uſing the inhabitants very cruelly. The Cavallery is gone to the other ſide of the Rhyne into the Country of Bergk, inſomuch that the Wey<g ref="char:EOLhyphen"/>mariſh have no reſiſtance at all.</p>
+            </div>
+            <div type="account">
+               <head>Weſel Ian. <hi>19 29.</hi>
+               </head>
+               <p>All the Colours and Standards which were taken from Generall <hi>Lamboy,</hi> are brought to Oyſey, about 130. in num<g ref="char:EOLhyphen"/>ber: the Standard of <hi>Lamboyes</hi> Life Regiment, together with others, ſhall be ſent to Caſſell to preſent them to the young Landgrave of Heſſen. The Governour of Gelder offers to pay a ranſome for thoſe that were taken of his guarriſon. In the Cloyſter of Knechlenberg &amp; Brouwyder the Weyma<g ref="char:EOLhyphen"/>riſh found great ſtore of proviſion, and not one man. The faire Caſtle of Dyck, and the little City of Hulckerat they have likewiſe taken, the houſes of Ners, Hulcdunck and Ca<g ref="char:EOLhyphen"/>lenburg they have pillaged, and Nelen they have burned: in a word, the whole County of Kempen is under their devo<g ref="char:EOLhyphen"/>tion, which in all this war hath ſuffered almoſt nothing<g ref="char:punc">▪</g> The Duke of Newburg hath beſtowed upon Cont <hi>de Guebrian</hi> a great Vat of wine, and ſtands now in a treaty with him.</p>
+            </div>
+            <div type="account">
+               <pb n="10" facs="tcp:171247:7"/>
+               <head>Collen the <hi>19.29.</hi> of Ian.</head>
+               <p>The 16.26. of Ianuary the Weymariſh forces begunne to batter fiercely the city of Neus and to fling fire balls in<g ref="char:EOLhyphen"/>to it, whereupon the 17.27. of this inſtant about ten of the clocke in the forenoone it was ſurrendered by compoſiti<g ref="char:EOLhyphen"/>on, the beſieged wanted powder and ſhot: Fieldmarſhall <hi>Hatzfeld</hi> who is expecting out of all garriſons, and from the river of Rhyne more aſſiſtance, will goe to field very ſhortly againſt the Weymariſh, and being the Weymariſh are for the preſent Maſters in the field, and no reſiſtance can be made, we muſt let them domineere as they liſt, wee looke onely to the principall cities to keep them ſtrongly guarded: Into Nuys the Weymariſh have laid 1500. men for a garriſon, and yeſterday they came before Sons: the citizens in Nancy plotted to the ſaid city and caſtle, and to deliver it over to the Duke of Lorraine, but the French garriſon was too ſtrong for them, and kill'd a great number of them.</p>
+            </div>
+            <div type="account">
+               <head>Amſterdam the <hi>20.30.</hi> Ian.</head>
+               <p>The 17.27. of Ian. the city of Nuys was ſurrendred un<g ref="char:EOLhyphen"/>to the Weymariſh and Heſſiſh forces. The Swediſh army under the command of Generall <hi>Terſtenſehn</hi> is broke up, but which way it will take wee ſhall ſhortly heare: 6000. men of the States forces lie likewiſe ready to goe to field, if the Spaniards ſtir to aid <hi>Hatzfeld,</hi> in ſo much that the ſeat of warre will wholly bee removed into the Biſhopricke of Collen, and it is certaine, that Colonell <hi>Roſa</hi> hath to<g ref="char:EOLhyphen"/>tally waſted and defeated againe about Zulch 2000. of <hi>Lamboyes</hi> fugitive horſemen, and obtained twelve ſtan<g ref="char:EOLhyphen"/>dards, in ſo much that they have got now about 130. en<g ref="char:EOLhyphen"/>ſignes
+<pb n="11" facs="tcp:171247:7"/>and ſtandards, and the 14.24. of this moneth they lighted alſo upon 600. Spaniſh foote with fire locks, the moſt part whereof they have put to the ſword.</p>
+            </div>
+            <div type="account">
+               <head>Collen the <hi>23.</hi> of Ian. the <hi>2.</hi> of Feb.</head>
+               <p>The 17.27. Ian. the Imperiall garriſon marched out of Nuys, which was conducted to Duſeldorp and uſed very well: the ſaid City is to pay for a ranſome 30000. Rixdal<g ref="char:EOLhyphen"/>lers, which City the Weymariſh fortifie exceedingly, and is guarded by Colonell <hi>Oheim</hi> with 1500. men: Zons, Kempen, Bergem, Caſter, Grevenbruck, Betper and o<g ref="char:EOLhyphen"/>ther places have likewiſe accommodated themſelves: the Weymariſh horſemen ride in and out at Duſſeldorp, at Orringen; ſome of their troopes are paſſing the River of Rhyne, it is thought that they aime either at Keyſerſwerth, or intend to aſſault <hi>Hatzfeld;</hi> in their campe they have publiſhed upon paine of high puniſhment, that none of their ſouldiers ſhall undertake to attempt any thing upon this City of Collen: the other five Commiſſioners were ſent from hence to the ſaid army to deſire that this City might ſtand neutrall with them, which the Weymariſh will not condiſcend unto: I beleeve wee ſhall not eſcape without paying them a great ſumme of money. Generall <hi>Tupadel</hi> and Roſa are marching now towards Duyren and Herpen: It is reported that Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhall <hi>de Chaſtillion</hi> is like<g ref="char:EOLhyphen"/>wiſe to come unto them from France with 18000. men, meane while the Spaniſh troops draw together on the Ri<g ref="char:EOLhyphen"/>ver of Maaſe to joine with Fieldmarſhall <hi>Hatzfeld,</hi> who lyes yet ſtill expecting the Duke of Lorraine with his troopes.</p>
+            </div>
+            <div type="account">
+               <pb n="12" facs="tcp:171247:8"/>
+               <head>Weſel the <hi>23.</hi> of Ian. the <hi>2.</hi> of Feb.</head>
+               <p>After that the Weymariſh had left their regiments in Nuys for a garriſon, the maine army broke up againe and came the 19.29. of Ianuary before Kempen, and yeſter<g ref="char:EOLhyphen"/>day they battered the ſaid place fiercely that wee could plainly heare it here; it is ſaid, that ſome Spaniſh forces have got into it, how they will ſpeed time will ſhew. At this inſtant a horſeman comming from the Biſhopricke of Collen, relates that thoſe of Kempen ſtood in a parly, ſo that it is not doubted but that the Weymariſh have already taken poſſeſſion in it.</p>
+               <p>There is not one Boore to be ſeen all the way long from Collen as far as Aken; the ſouldiers finde every where the houſes ſo full of victualls, bacon and ſmoak'd fleſh, that it is not to be expected: Our bridges with ſome men of warre are gone up higher the Rhyne, it is thought the Weymariſh have an aime either at Keyſerſwerth, or that they intend to aſſault <hi>Hatzfelds</hi> forces, which time will ſhew.</p>
+            </div>
+            <div type="account">
+               <head>Amſterdam the <hi>29.</hi> of Ian. the <hi>8.</hi> of Feb.</head>
+               <p>The Duke of Newburg hath obtained the neutrality with the Weymariſh and Heſſiſh forces: He hath delivered unto the Weymariſh for their quarters the Cities of Gleb<g ref="char:EOLhyphen"/>beck, Grevenbreck, Cuſter, Bebber, and the ſtrong Caſtle of Reidt: The City of Duyren hath paid a ſumme of mo<g ref="char:EOLhyphen"/>ney to be freed of enquartering: Thoſe of Collen have
+<pb n="13" facs="tcp:171247:8"/>likewiſe deſired the neutrality: Some letters mention that the Biſhop of Collen is dead, others he is very ſicke, if hee ſhould dye it would cauſe a great alteration in his coun<g ref="char:EOLhyphen"/>try.</p>
+               <p>From Munſter they write that Captaine <hi>Iohn Terſiegh</hi> hath defeated betwixt Borcken and Weſel a Heſſiſh con<g ref="char:EOLhyphen"/>voy of 100. foote and 40. horſemen, in which encounter the ſaid Captaine himſelfe alſo was ſlaine.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
